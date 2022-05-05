@@ -8,7 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
-
+<<<<<<< HEAD
         System.out.println( "new trial!" );
+=======
+        System.out.println( "change for webhook!" );
+>>>>>>> f588ffa2c3211079ca0f73ae77e058ae787b78b5
     }
 }
